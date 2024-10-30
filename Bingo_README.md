@@ -20,15 +20,15 @@ You can install any missing libraries using `pip`:
 pip install tk
 
 **How to Run the Project**
-	1	Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
 git clone https://github.com/ambarishtirumalai/Bingo-Game-with-GUI.git
 
-  2	Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd bingo-game
 
-  3	Run the gui.py file to start the game:
+3. Run the gui.py file to start the game:
 
 python gui.py
 
@@ -37,15 +37,15 @@ python gui.py
 	•	gui.py: Contains the code for the graphical user interface.
 
 **How to Play**
-	1	Start the game by running gui.py.
-	2	Follow the on-screen instructions to play Bingo.
+	1. Start the game by running gui.py.
+	2. Follow the on-screen instructions to play Bingo.
 
 **Running Simulations**
-    1   Enter the number of Bingo cards per simulation in the "Number of Bingo Cards per
+    1. Enter the number of Bingo cards per simulation in the "Number of Bingo Cards per
         Simulation" field. Note: Please enter a positive integer number between “3 – 60”.
-    2   Enter the number of simulations you want to run in the "Number of Simulations"
-        field. Note: Please enter a positive integer number between “1-110”.
-    3   Click the "Start Simulation" button to begin the simulations.
+    2. Enter the number of simulations you want to run in the "Number of Simulations"
+	field. Note: Please enter a positive integer number between “1-110”.
+    3. Click the "Start Simulation" button to begin the simulations.
 
 **Simulation Progress**
     During the simulation:
