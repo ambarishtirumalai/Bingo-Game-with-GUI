@@ -37,8 +37,8 @@ python gui.py
 	•	gui.py: Contains the code for the graphical user interface.
 
 **How to Play**
-	1. Start the game by running gui.py.
-	2. Follow the on-screen instructions to play Bingo.
+    1. Start the game by running gui.py.
+    2. Follow the on-screen instructions to play Bingo.
 
 **Running Simulations**
     1. Enter the number of Bingo cards per simulation in the "Number of Bingo Cards per
