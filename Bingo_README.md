@@ -68,6 +68,13 @@ python gui.py
     and lower bound of both bingo and full house wins.
     • The histogram displays the distribution of the turn numbers when the first Bingo was
     hit in each simulation.
-    
+
+**Team Members**
+
+Ambarish Tirumalai (Standard deviation plot, backend code)
+Jeyaram Muthukrishnan (Histogram plot, backend code)
+Leena Mary Varghese (UML, User Manual, backend code)
+Shirish Senthil Kumar (Display initial cards, GUI integration, backend code)
+
 **Contributing**
 If you would like to contribute to this project, please fork the repository and submit a pull request.
