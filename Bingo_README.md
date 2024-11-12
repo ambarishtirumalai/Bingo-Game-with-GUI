@@ -33,8 +33,8 @@ cd bingo-game
 python gui.py
 
 **Files in the Repository**
-	•	Bingo.py: Contains the main logic for the Bingo game.
-	•	gui.py: Contains the code for the graphical user interface.
+* Bingo.py: Contains the main logic for the Bingo game.
+* gui.py: Contains the code for the graphical user interface.
 
 **How to Play**
     1. Start the game by running gui.py.
